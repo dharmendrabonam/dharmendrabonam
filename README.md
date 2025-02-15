@@ -62,9 +62,10 @@
 
 ## 📊 GitHub Stats:  
 
-<p align="left",align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dharmendrabonam&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-   
+</p>
+<P align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendrabonam&theme=dark" alt="GitHub Streak" />
 </p>
 
